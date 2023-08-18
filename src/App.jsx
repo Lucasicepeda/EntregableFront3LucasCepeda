@@ -1,5 +1,6 @@
 import { useState } from 'react'
-// import './App.css'
+import './App.css'
+import './Card.css'
 import Form from './Form'
 import Card from "./Card";
 
